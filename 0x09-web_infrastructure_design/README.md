@@ -8,3 +8,10 @@
 - [High availability cluster (active-active/active-passive)](https://docs.oracle.com/cd/E17904_01/core.1111/e10106/intro.htm#ASHIA712)
 - [What is HTTPS](https://www.instantssl.com/http-vs-https)
 - [What is a firewall](https://www.webopedia.com/definitions/firewall/)
+
+# Learning Objectives
+## General
+- You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects
+- You must be able to explain what each component is doing
+- You must be able to explain system redundancy
+- Know all the mentioned acronyms: LAMP, SPOF, QPS
