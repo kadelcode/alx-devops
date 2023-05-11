@@ -49,3 +49,4 @@ debug1: Sending environment.
 debug1: Sending env LANG = en_US.UTF-8
 ubuntu@magic-server:~$
 ```
+In the example above, we can see that ```ssh``` tries to authenticate using ```school``` and does not try to authenticate using a password. You can replace ```98.98.98.98``` by the IP of your server for testing purposes.
