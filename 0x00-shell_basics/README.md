@@ -2,16 +2,16 @@
 
 ## Resources
 **Read or watch:**
-- [What Is “The Shell”?]()
-- [Navigation]()
-- [Looking Around]()
-- [A Guided Tour]()
-- [Manipulating Files]()
-- [Working With Commands]()
-- [Reading Man pages]()
-- [Keyboard shortcuts for Bash]()
-- [LTS]()
-- [Shebang]()
+- [What Is “The Shell”?](https://linuxcommand.org/lc3_lts0010.php)
+- [Navigation](https://linuxcommand.org/lc3_lts0020.php)
+- [Looking Around](http://linuxcommand.org/lc3_lts0030.php)
+- [A Guided Tour](http://linuxcommand.org/lc3_lts0040.php)
+- [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
+- [Working With Commands](http://linuxcommand.org/lc3_lts0060.php)
+- [Reading Man pages](http://linuxcommand.org/lc3_man_pages/man1.html)
+- [Keyboard shortcuts for Bash](https://www.howtogeek.com/181/keyboard-shortcuts-for-bash-command-shell-for-ubuntu-debian-suse-redhat-linux-etc/)
+- [LTS](https://wiki.ubuntu.com/LTS)
+- [Shebang](https://en.wikipedia.org/wiki/Shebang_%28Unix%29)
 
 **man or help:**
 - cd
@@ -30,7 +30,7 @@
 - man
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), without the help of Google:
 
 ### General
 - What does RTFM mean?
