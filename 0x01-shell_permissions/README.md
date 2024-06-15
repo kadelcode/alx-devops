@@ -1,7 +1,7 @@
 # Shell Permissions
 ## Resources
 **Read or watch:**
-- Permissions[]()
+- [Permissions](http://linuxcommand.org/lc3_lts0090.php)
 
 **man or help:**
 - ```chmod```
@@ -17,7 +17,7 @@
 - ```addgroup```
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), without the help of Google:
 
 ## Permissions
 - What do the commands ```chmod```, ```sudo```, ```su```, ```chown```, ```chgrp``` do
