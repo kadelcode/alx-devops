@@ -1,7 +1,7 @@
 # Shell, I/O Redirections and Filters
-# Resources
-- [Shell, I/O Redirection]()
-- [Special Characters]()
+## Resources
+- [Shell, I/O Redirection](http://linuxcommand.org/lc3_lts0070.php)
+- [Special Characters](https://mywiki.wooledge.org/BashGuide/SpecialCharacters)
 
 **man or help**:
 - ```echo```
