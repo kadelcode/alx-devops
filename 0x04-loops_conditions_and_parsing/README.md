@@ -5,19 +5,19 @@
 ## Resources
 **Read or watch:**
 
-- [Loops sample]()
-- [Variable assignment and arithmetic]()
-- [Comparison operators]()
-- [File test operators]()
-- [Make your scripts portable]()
+- [Loops sample](https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_09_01.html)
+- [Variable assignment and arithmetic](https://tldp.org/LDP/abs/html/ops.html)
+- [Comparison operators](https://tldp.org/LDP/abs/html/comparison-ops.html)
+- [File test operators](https://tldp.org/LDP/abs/html/fto.html)
+- [Make your scripts portable](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
 
 **man or help:**
-- env
-- cut
-- for
-- while
-- until
-- if
+- ```env```
+- ```cut```
+- ```for```
+- ```while```
+- ```until```
+- ```if```
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
@@ -50,9 +50,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## More Info
 ### Shellcheck
-[Shellcheck]() is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. ```Shellcheck``` is your friend! All your Bash scripts must pass ```Shellcheck``` without any error or you will not get any points on the task.
+[Shellcheck](https://github.com/koalaman/shellcheck) is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. ```Shellcheck``` is your friend! All your Bash scripts must pass ```Shellcheck``` without any error or you will not get any points on the task.
 
-```Shellcheck``` is available on the school’s computers. If you want to use it on your own computer, here is how to [install it]().
+```Shellcheck``` is available on the school’s computers. If you want to use it on your own computer, here is how to [install it](https://github.com/koalaman/shellcheck#installing).
 
 Examples:
 
