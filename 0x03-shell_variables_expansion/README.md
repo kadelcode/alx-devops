@@ -18,7 +18,7 @@
 - ```printf```
 
 # Learning Objectives
-## Genearal
+## General
 - What happens when you type ```$ ls -l *.txt```
 
 ## Shell Initialization Files
