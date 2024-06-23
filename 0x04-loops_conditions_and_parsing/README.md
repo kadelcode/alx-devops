@@ -57,9 +57,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 Examples:
 
 Not passing ```Shellcheck```:
-
+![Not passing shell check](https://github.com/kadelcode/alx-devops/blob/main/0x04-loops_conditions_and_parsing/images/Vxotqyj.png)
 
 Passing ```Shellcheck```:
-
+![Passing shell check](https://github.com/kadelcode/alx-devops/blob/main/0x04-loops_conditions_and_parsing/images/ubHWxDU.png)
 
 For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code ```SC2034```, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034](https://github.com/koalaman/shellcheck/wiki/SC2034)
