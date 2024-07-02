@@ -22,5 +22,5 @@ Best School
 sylvain@ubuntu$ 
 For the most curious:
 ```
-- [8 in the Chinese culture]()
-- [4 in the Chinese culture]()
+- [8 in the Chinese culture](https://www.chcp.org/Chinese-Numerology)
+- [4 in the Chinese culture](https://en.wikipedia.org/wiki/Chinese_numerology#Four)
