@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# List all files and directories in the current directory.
+# Excluding hidden ones.
+
+for item in *; do
+	# Check if the item is not a hidden file and contains a dash
+	if [[ -f "$item" || -d "$item" ]] && [[ "$item" == *-* ]]; then
+		# Extract the part of the name after the first dash
+		echo "${item#*-}"
+	elif [[ -f "$item" || -d "$item" ]]; then
+		# If no dash, just print the name as it is
+		echo "$item"
+	fi
+done
