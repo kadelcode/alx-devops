@@ -13,7 +13,7 @@ Requirement:
   - See example
 -  You must use ```awk```
 -  You are not allowed to use ```while```, ```for```, ```until``` and ```cut```
--  Download and commit the [apache-access.log file]() along with your answers files
+-  Download and commit the [apache-access.log file](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/80/apache-access.log) along with your answers files
 ```
 sylvain@ubuntu$ ./102-lets_parse_apache_logs | tail -n 10
 185.130.5.207 301
