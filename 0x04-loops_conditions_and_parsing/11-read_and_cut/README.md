@@ -1,3 +1,5 @@
+```#advanced```
+
 help: ```read```
 Write a Bash script that displays the content of the file ```/etc/passwd```.
 
